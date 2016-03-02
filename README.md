@@ -1,3 +1,7 @@
-# MyFirstRepo
+# Hello from the other side
+:smile:
+:dancer:
+:heart:
 My first repository on GitHub.
-Will update with new changes
+
+Hello World :smile:
